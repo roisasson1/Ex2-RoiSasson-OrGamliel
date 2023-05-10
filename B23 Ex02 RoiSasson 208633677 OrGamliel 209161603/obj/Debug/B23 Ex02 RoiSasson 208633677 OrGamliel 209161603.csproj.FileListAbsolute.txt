@@ -1,0 +1,8 @@
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\bin\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.exe
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\bin\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.pdb
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\obj\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.csproj.AssemblyReference.cache
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\obj\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.csproj.CoreCompileInputs.cache
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\obj\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.csproj.CopyComplete
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\obj\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.exe
+C:\Users\roiy1\source\repos\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603\obj\Debug\B23 Ex02 RoiSasson 208633677 OrGamliel 209161603.pdb
